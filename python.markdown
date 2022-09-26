@@ -1,9 +1,9 @@
 ---
 layout: category
-title: srbija
+title: python
 descriptions: All posts related to the greatest programming language in the world - python
-permalink: /srbija/
-category_name: srbija
+permalink: /python/
+category_name: python
 ---
 
 This are all of my postings related to the programming language python. Enjoy the readings!
