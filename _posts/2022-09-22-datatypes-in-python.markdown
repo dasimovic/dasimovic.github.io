@@ -3,6 +3,7 @@ layout: post
 title:  "Datatypes in Python"
 date:   2022-09-22 22:05:56 +0100
 categories: python
+category_name: python
 ---
 []: 
 
